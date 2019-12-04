@@ -48,7 +48,8 @@ export default {
   methods: {
     goType(type){
       console.log(type)
-      
+      let url = '../list/main?type=' + type.title
+      mpvue.navigateTo({ url })
     }
   },
 
