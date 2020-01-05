@@ -1,0 +1,8 @@
+[
+    {"name":"316","introduce":"哑光质地","address":"Devoted to chili 泫雅色","image":"/static/images/devoted to chili.jpg","remark":"MAC·丝缎柔雾唇膏"},        
+    {"name":"Marrakesh","introduce":"哑光质地","address":"土橘红棕色，秋冬必备","image":"/static/images/M.jpg","remark":"MAC·柔感哑光唇膏"},
+    {"name":"Chili","introduce":"哑光质地","address":"国民挚爱，经典小辣椒，显白第一名！","image":"/static/images/c.jpg","remark":"MAC·柔感哑光唇膏"},
+    {"name":"Lady Bug","introduce":"闪光质地","address":"烂番茄色，水润质地，能遮唇纹","image":"/static/images/lady bug.jpg","remark":"MAC·水漾润泽唇膏"},
+    {"name":"Ruby Woo","introduce":"哑光质地","address":"冷调玫红色，超级显白，但是有点干要注意打底","image":"/static/images/ruby woo.jpg","remark":"MAC·柔感哑光唇膏"},
+    {"name":"Brick-o-la","introduce":"润泽质地","address":"超级日常的豆沙色，滋润度很好，而且还显色不易掉","image":"/static/images/brick o la.jpg","remark":"MAC·显色丰润唇膏"}
+]

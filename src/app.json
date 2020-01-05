@@ -3,17 +3,16 @@
     "pages/index/main",
     "pages/recommend/main",
     "pages/mine/main"
-    
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
+    "navigationBarBackgroundColor": "#FFC0CB",
+    "navigationBarTitleText": "Lipsticks",
+    "navigationBarTextStyle": "white"
   },
   "tabBar": {
     "color": "#999",
-    "backgroundColor": "#fafafa",
+    "backgroundColor": "#FFC0CB",
     "selectedColor": "#333",
     "borderStyle": "white",
 
@@ -23,7 +22,7 @@
       "iconPath": "static/images/_5.png",
       "selectedIconPath": "static/images/5.png"
     }, {
-      "text": "种草",
+      "text": "试色",
       "pagePath": "pages/recommend/main",
       "iconPath": "static/images/_6.png",
       "selectedIconPath": "static/images/6.png"
@@ -40,7 +39,7 @@
       "icon": "static/tabs/home.png",
       "activeIcon": "static/tabs/home-active.png"
     }, {
-      "name": "种草",
+      "name": "试色",
       "pagePath": "pages/recommend/main",
       "icon": "static/tabs/orders.png",
       "activeIcon": "static/tabs/orders-active.png"

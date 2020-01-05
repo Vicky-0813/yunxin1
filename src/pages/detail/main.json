@@ -7,5 +7,6 @@
       "i-grid-label": "../../../static/dist/grid-label/index",
       "i-panel": "../../../static/dist/panel/index",
       "i-card": "../../../static/dist/card/index"
+
   }
 }
